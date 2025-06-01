@@ -1,7 +1,7 @@
 # Hi, I'm Pasca! 👋
 
 ## About Me
-- 🚁 Software Developer
+- 🚁 AI Engineer
 - 🌏 Based in UTC+07:00
 - 💻 Currently grinding on [boot.dev](https://www.boot.dev/u/nathanpasca)
 
